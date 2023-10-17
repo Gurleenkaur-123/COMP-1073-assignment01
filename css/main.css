@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* Assignment 1 | COMP1073 Client-Side JavaScript */
+
+h1 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  h2 {
+    font-size: 20px;
+    color: #555;
+  }
+
+  body {
+    background-color: #f0f0f0;
+    color: #333;
+  }
+
+  p {
+    font-family: Arial, sans-serif;
+  }
+
+  .container {
+    margin: 20px;
+    padding: 10px;
+  }
+
+  a {
+    text-decoration: none;
+    color: #0077cc;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+
+  .navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  .navbar a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+
+  .button {
+    background-color: #0077cc;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .button:hover {
+    background-color: #0055aa;
+  }
+
+  @media (max-width: 768px) {
+    /* CSS rules for smaller screens */
+  }
+  
+  
